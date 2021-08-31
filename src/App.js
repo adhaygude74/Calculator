@@ -31,6 +31,7 @@ function App() {
          }
   return (
    <>
+   {/* calculator  */}
             <h1> Calculator </h1>
             <hr />
             <div>
